@@ -1,6 +1,6 @@
 # Governance, Risk, and Compliance (GRC) Projects
 
-These projects will showcase hands-on experience in security policy development, risk assessment, compliance, and security audits.
+These projects showcase hands-on experience in security policy development, risk assessment, compliance, and security audits.
 
 [Security Policy & Compliance Documentation](https://github.com/JustinRLew/Security-Policy-Compliance-Documentation)
 
